@@ -6,11 +6,11 @@
 
 I am Second year Student at AMA College University pursuing Bachelor of Science and Information Technology. I love coding, solving problems and communicating with others people. I enjoy being challenged and love working on projects that require working out of my comfort zone and skill set.
 
-- I’m currently learning more about JavaScript and A11y 🤣
-- 2022 Goals: Contribute more to Open Source projects
-- I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
+- 🌱 I’m currently learning more about JavaScript and A11y 🤣
+- 👨‍💻 2022 Goals: Contribute more to Open Source projects
+- 🤝 I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
 - 📫 How to reach me **benjoquilario@gmail.com**
-- Fun fact: I love making my parents headache. Just kidding 🤣
+- ⚡ Fun fact: I love making my parents headache. Just kidding 🤣
 
 ### Connect with me:
 
