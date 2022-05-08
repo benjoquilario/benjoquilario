@@ -6,12 +6,12 @@
 
 I am Second year Student at AMA College University pursuing Bachelor of Science and Information Technology. I love coding, solving problems and communicating with others people. I enjoy being challenged and love working on projects that require working out of my comfort zone and skill set.
 
-- 🌱 I’m currently learning more about TypeScript, NextJS, Tailwincss and A11y 🤣
+- 🌱 I’m currently learning more about TypeScript, NextJS, Tailwincss and A11y.
 - 👨‍💻 2022 Goals: Contribute more to Open Source projects
 - 🤝 I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
 - 📫 How to reach me **benjoquilario@gmail.com**
 - 📖 Beside coding I enjoy reading manga and novels
-- ⚡ Fun fact: I love making my parents headache. Just kidding 🤣
+- ⚡ Fun fact: I love making my parents headache. Just kidding.
 
 ![benjoquilario](https://github-readme-stats.vercel.app/api?username=benjoquilario&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)
 
@@ -33,5 +33,5 @@ I am Second year Student at AMA College University pursuing Bachelor of Science 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
 ### Currently Learning
-<p align="left"><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a></p>
-<p align="left"><a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="next js" width="40" height="40"/> </a></p>
+<p align="left"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next js" width="40" height="40"/> </a></p>
