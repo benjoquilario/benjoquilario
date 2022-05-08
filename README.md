@@ -34,4 +34,4 @@ I am Second year Student at AMA College University pursuing Bachelor of Science 
 
 ### Currently Learning
 <p align="left"><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="next js" width="40" height="40"/> </a></p>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://www.benjoquilario.me/images/nextjs.png" alt="next js" width="40" height="40"/> </a></p>
