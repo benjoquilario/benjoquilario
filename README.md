@@ -13,6 +13,8 @@ I am Second year Student at AMA College University pursuing Bachelor of Science 
 - 📖 Beside coding I enjoy reading manga and novels
 - ⚡ Fun fact: I love making my parents headache. Just kidding 🤣
 
+![benjoquilario](https://github-readme-stats.vercel.app/api?username=benjoquilario&count_private=true&hide=contribs&show_icons=true&theme=vue-dark)
+
 ### Connect with me:
 
 <br />
