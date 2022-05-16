@@ -1,11 +1,11 @@
 <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bqyiid7bmk7259zwflqqku78esq1hqvah9vhrcd0&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Hi there, I'm Benjo M. Quilario👋
-I'm a Passionate Frontend Developer from PH.
-Constantly learning new technologies
-Currently learning backend technologies(PHP and NodeJS)
+- I'm a Passionate Frontend Developer from PH.
+- Constantly learning new technologies
+- Currently learning backend technologies(PHP and NodeJS)
 
-![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjok)
+![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjo)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjoquilario)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/naveenkumar-gumaste/)](https://www.linkedin.com/in/benjo-quilario-415a351bb/)
 
