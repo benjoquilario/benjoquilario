@@ -5,7 +5,7 @@
 - Constantly learning new technologies
 - Currently learning backend technologies(PHP and NodeJS)
 
-![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjo)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjo)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjoquilario)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/naveenkumar-gumaste/)](https://www.linkedin.com/in/benjo-quilario-415a351bb/)
 
