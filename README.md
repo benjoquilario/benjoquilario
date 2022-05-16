@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bqyiid7bmk7259zwflqqku78esq1hqvah9vhrcd0&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bqyiid7bmk7259zwflqqku78esq1hqvah9vhrcd0&rid=giphy.gif&ct=g" min-width="250px" max-width="250px" width="250px" align="right">
 
 ## Hi there, I'm Benjo M. Quilario👋
 - I'm a Passionate Frontend Developer from PH.
