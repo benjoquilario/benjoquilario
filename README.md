@@ -1,4 +1,5 @@
-<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bqyiid7bmk7259zwflqqku78esq1hqvah9vhrcd0&rid=giphy.gif&ct=g" min-width="250px" max-width="250px" width="250px" align="right">
+
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bqyiid7bmk7259zwflqqku78esq1hqvah9vhrcd0&rid=giphy.gif&ct=g" min-width="320px" max-width="320px" width="320px" align="right" border-radius="50%">
 
 ## Hi there, I'm Benjo M. Quilario👋
 - I'm a Passionate Frontend Developer from PH.
@@ -15,6 +16,8 @@
 </p>
 -->
 
+<br />
+<br />
 <div align="center" height="200px" display="flex">
 
 ### &nbsp;Tech Stack 
@@ -27,11 +30,15 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux)
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-0a66c2?style=flat-square&logo=php&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)&nbsp;
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)&nbsp;
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-f34e20?style=flat-square&logo=figma&logoColor=ffffff)
 
 
 ### 📈 &nbsp;GitHub Analytics
