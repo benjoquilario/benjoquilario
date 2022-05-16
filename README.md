@@ -1,12 +1,14 @@
 
-<img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e474vj57ryhfbb26zcnhb8k3e6xyjobqu0uibl3vzhs&rid=giphy.gif&ct=g" min-width="330px" max-width="330px" width="330px" align="right">
+<img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e474vj57ryhfbb26zcnhb8k3e6xyjobqu0uibl3vzhs&rid=giphy.gif&ct=g" min-width="315px" max-width="315px" width="315px" align="right">
 
 ## Hi there, I'm Benjo M. Quilario👋
 - I'm a Passionate Frontend Developer from PH.
-- Constantly learning new technologies
-- Currently learning backend technologies(PHP and NodeJS)
+- Second year student at AMA College University.
+- 2022 Goals: Contribute more to Open Source projects.
+- Constantly learning new technologies.
+- Currently learning backend technologies(PHP and NodeJS).
+- I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
 - In addition to coding, I enjoy reading novels and playing video games. 
-- Second year student at AMA College University
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjo)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjoquilario)
