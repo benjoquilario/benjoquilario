@@ -1,24 +1,21 @@
-### Hi there, I'm Benjo M. Quilario👋
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47bqyiid7bmk7259zwflqqku78esq1hqvah9vhrcd0&rid=giphy.gif&ct=g" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/iam_benjo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fiam_benjo&screen_name=iam_benjo)
+## Hi there, I'm Benjo M. Quilario👋
+I'm a Passionate Frontend Developer from PH.
+Constantly learning new technologies
+Currently learning backend technologies(PHP and NodeJS)
 
-## I'm a Student, Son, and Web Developer!
+![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjok)
+[![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjoquilario)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/naveenkumar-gumaste/)](https://www.linkedin.com/in/benjo-quilario-415a351bb/)
 
-I am Second year Student at AMA College University pursuing Bachelor of Science and Information Technology. I love coding, solving problems and communicating with others people. I enjoy being challenged and love working on projects that require working out of my comfort zone and skill set.
-
-- I’m currently learning more about TypeScript, NextJS, Tailwincss and A11y.
-- 2022 Goals: Contribute more to Open Source projects
-- I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
-- How to reach me **benjoquilario@gmail.com**
-- Beside coding I enjoy reading manga and novels
-
+<!--
+<a href="https://github.com/benjoquilario" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/iam_benjo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/benjo-quilario-415a351bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <img alt="email address" src="https://img.shields.io/badge/benjoquilario%40gmail.com-email-important" />
+</p>
+-->
 
 <div align="center" height="200px" display="flex">
-### Connect with me:
-<p align="left">
-  <p><a href="https://github.com/benjoquilario" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/iam_benjo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/benjo-quilario-415a351bb/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <img alt="email address" src="https://img.shields.io/badge/ckmutezva%40gmail.com-email-important" />
-</p>
 
 ### &nbsp;Tech Stack 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
