@@ -5,7 +5,7 @@
 - I'm a Passionate Frontend Developer from PH.
 - Second year student at AMA College University.
 - Constantly learning new technologies.
-- Currently learning backend technologies(PHP and NodeJS).
+- Currently learning backend technologies PHP and NodeJS.
 - I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
 - In addition to coding, I enjoy reading novels, manga and watching anime. 
 
