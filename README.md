@@ -4,11 +4,10 @@
 ## Hi there, I'm Benjo M. Quilario👋
 - I'm a Passionate Frontend Developer from PH.
 - Second year student at AMA College University.
-- 2022 Goals: Contribute more to Open Source projects.
 - Constantly learning new technologies.
 - Currently learning backend technologies(PHP and NodeJS).
 - I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
-- In addition to coding, I enjoy reading novels and playing video games. 
+- In addition to coding, I enjoy reading novels, manga and watching anime. 
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjo)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjoquilario)
@@ -20,7 +19,6 @@
 </p>
 -->
 
-<br />
 <br />
 
 <div align="left" height="200px" display="flex">
