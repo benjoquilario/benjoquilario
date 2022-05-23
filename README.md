@@ -1,7 +1,6 @@
-
 <img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e474vj57ryhfbb26zcnhb8k3e6xyjobqu0uibl3vzhs&rid=giphy.gif&ct=g" min-width="315px" max-width="315px" width="315px" align="right">
 
-## Hi there, I'm Benjo M. Quilario👋
+### Hi there, I'm Benjo M. Quilario👋
 - I'm a Passionate Frontend Developer from PH.
 - Second year student at AMA College University.
 - Constantly learning new technologies.
