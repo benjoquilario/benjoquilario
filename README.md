@@ -40,7 +40,7 @@ I am comfortable working independently or as part of a team, and I am always rea
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-0a66c2?style=flat-square&logo=php&logoColor=ffffff)
 ![Prisma](https://img.shields.io/badge/-Prisma.io-000?style=flat-square&logo=prisma&logoColor=ffffff)
-![MongoDB]
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
