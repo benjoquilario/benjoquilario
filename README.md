@@ -1,14 +1,17 @@
 
-<!-- <div height="200px" display="flex">
-<img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e474vj57ryhfbb26zcnhb8k3e6xyjobqu0uibl3vzhs&rid=giphy.gif&ct=g" min-width="315px" max-width="315px" width="315px" align="right"> -->
+<div height="200px" display="flex">
+<img src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e474vj57ryhfbb26zcnhb8k3e6xyjobqu0uibl3vzhs&rid=giphy.gif&ct=g" min-width="315px" max-width="315px" width="315px" align="right">
 
-## Hi there, I'm Benjo M. Quilario👋
-- I'm a Passionate Frontend Developer from PH.
-- Third year college student at AMA College University.
-- Constantly learning new technologies.
-- Currently learning backend technologies PHP and NodeJS.
-- I'm a big fan of [Frontend Mentor](https://www.frontendmentor.io). Love working on their challenges and giving feedback to others.
-- In addition to coding, I enjoy reading novels, manga and watching anime. 
+# Hi there, I'm BenJo M. Quilario
+
+I've been coding frontend development for over (2) years now and developed responsive, optimized, and SEO-friendly websites using the best practices and latest UX trends for best user experience. I have a passion for front-end development to create the best possible user experience.
+
+My favorite stack right now is ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs), ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-45aab3?style=flat-square&logo=tailwindcss&logoColor=ffffff) with shadcn/ui, 
+![Prisma.io](https://img.shields.io/badge/-Prisma.io-000?style=flat-square&logo=prisma&logoColor=ffffff), and ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=ffffff).
+
+Since technology never stops growing. I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
+
+I am comfortable working independently or as part of a team, and I am always ready to take on new challenges.
 
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor)](https://twitter.com/iam_benjo)
 [![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/benjoquilario)
@@ -23,7 +26,7 @@
 
 <div align="left" height="200px" display="flex">
 
-### 👩‍💻 &nbsp;Tech Stack 
+## 👩‍💻 &nbsp;Tech Stack 
   
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)&nbsp;
@@ -36,6 +39,8 @@
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-0a66c2?style=flat-square&logo=php&logoColor=ffffff)
+![Prisma](https://img.shields.io/badge/-Prisma.io-000?style=flat-square&logo=prisma&logoColor=ffffff)
+![MongoDB]
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -44,12 +49,11 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-f34e20?style=flat-square&logo=figma&logoColor=ffffff)
 
+## 🖊️ Recent Blog Posts
 
-### 📈 &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/benjoquilario">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=benjoquilario&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=benjoquilario&layout=compact&langs_count=8&theme=algolia"/>
+<!-- BLOG-POST-LIST:START -->
+- [Implement authentication system using Next.js with app directory](https://benjoquilario.vercel.app/blog/implementing-authentication-system-using-next-auth-prisma)
+- [Understanding the useMemo and useCallback hook in React](https://benjoquilario.vercel.app/blog/understanding-the-usememo-and-usecallback-hook-in-react)
+<!-- BLOG-POST-LIST:END -->
 
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=benjoquilario&theme=react-dark&hide_border=true&area=true)
-    
+
