@@ -4,7 +4,9 @@ Hi 👋 My name is Benjo Quilario
 Frontend Developer
 ------------------
 
-I've been coding frontend development for over (3) years now and developed responsive, optimized, and SEO-friendly websites using the best practices and latest UX trends for best user experience. I have a passion for front-end development to create the best possible user experience. My favorite stack right now is React, Next.js, TailwindCSS with shadcn/ui, Drizzle, and PostgreSQL. I am comfortable working independently or as part of a team, and I am always ready to take on new challenges. Since technology never stops growing. I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
+I've been coding frontend development for over (3) years now and developed responsive, optimized, and SEO-friendly websites using the best practices and latest UX trends for best user experience. I have a passion for front-end development to create the best possible user experience. My favorite stack right now is React, Next.js, TailwindCSS with shadcn/ui, Drizzle, and PostgreSQL. 
+
+I am comfortable working independently or as part of a team, and I am always ready to take on new challenges. Since technology never stops growing. I am always looking for ways to improve my skills and stay up-to-date with the latest developments in the field.
 
 * 🌍  I'm based in Quezon City, Philippines
 * 🖥️  See my portfolio at [https://benjoquilario.site](http://benjoquilario.site)
