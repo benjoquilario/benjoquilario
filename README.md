@@ -11,7 +11,7 @@ I am comfortable working independently or as part of a team, and I am always rea
 * 🌍  I'm based in Quezon City, Philippines
 * 🖥️  See my portfolio at [https://benjoquilario.site](http://benjoquilario.site)
 * ✉️  You can contact me at [benjoquilario@gmail.com](mailto:benjoquilario@gmail.com)
-* 🚀  I'm currently working on [bq-player](http://github.com/benjoquilario/bq-player)
+* 🚀  I'm currently working on [jmq-furniture](http://github.com/benjoquilario/furniture-jmq) my mother business
 * 🧠  I'm learning Backend technologies
 * ⚡  Outside of programming, I have a diverse set of hobbies that include:
       - I love watching movies, anime and playing games
@@ -32,8 +32,8 @@ src="https://img.shields.io/twitter/follow/iam_benjo?logo=twitter&style=for-the-
 ## 🖊️ Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Implement authentication system using Next.js with app directory](https://benjoquilario.vercel.app/blog/implementing-authentication-system-using-next-auth-prisma)
-- [Understanding the useMemo and useCallback hook in React](https://benjoquilario.vercel.app/blog/understanding-the-usememo-and-usecallback-hook-in-react)
+- [Implement authentication system using Next.js with app directory](https://benjoquilario.site/blog/implementing-authentication-system-using-next-auth-prisma)
+- [Understanding the useMemo and useCallback hook in React](https://benjoquilario.site/blog/understanding-the-usememo-and-usecallback-hook-in-react)
 <!-- BLOG-POST-LIST:END -->
 ### Socials
 
